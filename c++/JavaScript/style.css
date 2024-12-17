@@ -1,0 +1,14 @@
+body{
+    /* background-color: aquamarine; */
+}
+div{
+    color: black;
+    background-color: pink;
+}
+button{
+    background-color: red;
+    color: white;
+}
+.para{
+    color: red;
+}
